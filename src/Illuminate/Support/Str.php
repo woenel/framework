@@ -514,7 +514,7 @@ class Str
     /**
      * Convert the given string to lower-case.
      *
-     * @param  string  $value
+     * @param  string|null  $value
      * @return string
      */
     public static function lower($value)
